@@ -1,7 +1,7 @@
 # gotify/logo
 
 The Gotify logo is licensed under the 
-[Attribution 4.0 International (CC BY 4.0) License](http://creativecommons.org/licenses/by/4.0/).
+[Creative Commons Attribution 4.0 International Public License](http://creativecommons.org/licenses/by/4.0/).
 
 Please open an issue if you have any questions.
 
