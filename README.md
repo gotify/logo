@@ -7,7 +7,7 @@ Please open an issue if you have any questions.
 
 ### Full Logo
 
-[![Logo](gotify-logo.svg)](gotify-logo.svg)
+[![Logo](gotify-logo.png)](gotify-logo.png)
 
 ### Small Logo
 
