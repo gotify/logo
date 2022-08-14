@@ -16,10 +16,11 @@ Please open an issue if you have any questions.
 
 ### Notification Logo
 
-Logo for the notification drawer was made by Choi Wong and has been optimized by
-Pander Musubi. (Note that the SVG doesn't prerender for some reason but renders
-fine with Inkscape.) With Inkscape, it can be exported for the Android app in
-sizes
+Logo for the notification drawer was based on the original logo and drawn by
+Choi Wong and has been optimized by Pander Musubi. All rights are owned by the
+Gotify organisation. (Note that the SVG doesn't prerender for some reason but
+renders fine with Inkscape.) With Inkscape, it can be exported for the Android
+app in sizes
 [96](https://github.com/gotify/android/blob/master/app/src/main/res/drawable-xxxhdpi/ic_gotify.png),
 [72](https://github.com/gotify/android/blob/master/app/src/main/res/drawable-xxhdpi/ic_gotify.png),
 [48](https://github.com/gotify/android/blob/master/app/src/main/res/drawable-xhdpi/ic_gotify.png),
