@@ -13,3 +13,11 @@ Please open an issue if you have any questions.
 ### Small Logo
 
 [![Logo Small](gotify-logo-small.png)](gotify-logo-small.png)
+
+### Notification Icon
+
+The notification icon was based on the original logo and drawn by Choi Wong and
+has been optimized by Pander Musubi. All rights are owned by the Gotify
+organisation.
+
+[![Logo Notification PNG](gotify-logo-notification-96.png)](gotify-logo-notification-96.png)
